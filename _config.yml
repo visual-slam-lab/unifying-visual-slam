@@ -1,8 +1,8 @@
 title: "Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions "
 description: Title
 sitename: Unifying-VSLAM@RSS2025
-baseurl: "/Unifying-VSLAM-RSS25"
-url: "https://vslam-lab.github.io"
+baseurl: "/unifying-visual-slam"
+url: "https://visual-slam-lab.github.io"
 
 # Scholar
 # ========================================================================================
