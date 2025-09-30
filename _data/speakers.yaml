@@ -1,0 +1,47 @@
+- name: Luigi Freda
+  image: /assets/images/luigi_freda.jpeg
+  web: https://www.luigifreda.com/
+  position: Principal Perception Engineer
+  affiliation: Dexory
+  
+- name: Ruben Arts
+  image: /assets/images/ruben_arts.jpeg
+  web: https://www.linkedin.com/in/ruben-arts
+  position: Software Engineer
+  affiliation: Prefix.dev
+  
+- name: Hermann Blum 
+  image: /assets/images/hermann_blum.jpeg
+  web: https://hermannblum.net/
+  position: Assistant Professor
+  affiliation: University of Bonn & Lamarr Institute
+
+- name: Angela Dai
+  image: /assets/images/angela_dai.jpeg
+  web: https://www.professoren.tum.de/en/dai-angela
+  position: Professor
+  affiliation: Technical University of Munich
+  
+- name: Wenshan Wang
+  image: /assets/images/wenshan_wang.jpeg
+  web: https://www.ri.cmu.edu/ri-faculty/wenshan-wang/
+  position: Systems Scientist
+  affiliation: Carnegie Mellon University
+
+- name: Shehryar Khattak
+  image: /assets/images/shehryar_khattak.jpeg
+  web: https://www.linkedin.com/in/shehryar-khattak/
+  position: Robot Technologist
+  affiliation: NASA Jet Propulsion Lab
+
+- name: Krishna Murthy
+  image: /assets/images/krishna_murthy.jpeg
+  web: https://krrish94.github.io/
+  position: AI Research Scientist
+  affiliation: Meta
+  
+- name: Hesam Rabeti
+  image: /assets/images/hesam_rabeti.jpeg
+  web: https://www.linkedin.com/in/hesam-rabeti-a994a61b/
+  position: Localization and mapping expert
+  affiliation: NVIDIA

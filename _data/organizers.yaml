@@ -1,0 +1,53 @@
+- name: Alejandro Fontan 
+  image: /assets/images/alejandro_fontan.jpeg
+  web: https://www.qut.edu.au/about/our-people/academic-profiles/alejandro.fontan
+  position: Postdoctoral Research Fellow
+  affiliation: Queensland University of Technology
+
+- name: Lukas Schmid
+  image: /assets/images/lukas_schmid.jpeg
+  web: https://schmluk.github.io/
+  position: Postdoctoral Research Fellow
+  affiliation: Massachusetts Institute of Technology
+
+- name: Olga Vysotska
+  image: /assets/images/olga_vysotska.jpeg
+  web: https://cvg.ethz.ch/team/Dr-Olga-Vysotska
+  position: Postdoctoral Research Fellow
+  affiliation: ETH Zurich
+  
+- name: Mubariz Zaffar
+  image: /assets/images/mubariz_zaffar.jpeg
+  web: https://www.linkedin.com/in/mubarizzaffar
+  position: PhD Candidate
+  affiliation: TU Delft 
+
+- name: Linfei Pan
+  image: /assets/images/linfei_pan.jpeg
+  web: https://lpanaf.github.io/
+  position: PhD Candidate
+  affiliation: ETH Zurich
+  
+- name: Gokul B. Nair
+  image: /assets/images/gokul_b_nair.jpeg
+  web: https://gokulbnr.github.io/
+  position: PhD Candidate
+  affiliation: Queensland University of Technology
+
+- name: Johan Barthelemy
+  image: /assets/images/johan_barthelemy.jpeg
+  web: https://scholars.uow.edu.au/johan-barthelemy
+  position: Senior Developer
+  affiliation: NVIDIA
+
+- name: Javier Civera
+  image: /assets/images/javier_civera.jpeg
+  web: https://i3a.unizar.es/es/investigadores/javier-civera-sancho
+  position: Associate Professor
+  affiliation: Universidad de Zaragoza
+
+- name: Michael Milford
+  image: /assets/images/michael_milford.jpeg
+  web: https://www.qut.edu.au/research/michael-milford
+  position: Professor
+  affiliation: Queensland University of Technology
